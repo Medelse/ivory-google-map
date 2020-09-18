@@ -12,10 +12,10 @@
     "require": {
         "php": "^5.6 || ^7.0",
         "egeloen/json-builder": "^2.0 || ^3.0",
+        "egeloen/serializer": "^1.0",
         "symfony/event-dispatcher": "^2.7 || ^3.0 || ^4.0"
     },
     "require-dev": {
-        "egeloen/serializer": "^1.0",
         "friendsofphp/php-cs-fixer": "^2.0",
         "php-http/cache-plugin": "^1.4",
         "php-http/guzzle6-adapter": "^1.0",
